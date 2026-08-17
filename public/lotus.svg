@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none" stroke="currentColor" stroke-width="12" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Central heart-like core petal structure -->
+  <path d="M256 120 C230 180, 210 240, 256 310 C302 240, 282 180, 256 120 Z" fill="currentColor" fill-opacity="0.1" />
+  <path d="M256 220 C235 180, 210 150, 256 110 C302 150, 277 180, 256 220 Z" fill="currentColor" />
+  
+  <!-- Symmetric Left/Right mid petals forming the inner chamber -->
+  <path d="M256 310 C180 250, 150 180, 210 150 C230 200, 245 250, 256 310 Z" fill="currentColor" fill-opacity="0.15" />
+  <path d="M256 310 C332 250, 362 180, 302 150 C282 200, 267 250, 256 310 Z" fill="currentColor" fill-opacity="0.15" />
+
+  <!-- Outermost sharp winged upward-sweeping petals -->
+  <path d="M256 310 C140 310, 100 240, 110 160 C140 230, 200 270, 256 310 Z" fill="currentColor" fill-opacity="0.05" />
+  <path d="M256 310 C372 310, 412 240, 402 160 C372 230, 312 270, 256 310 Z" fill="currentColor" fill-opacity="0.05" />
+
+  <!-- Lower base petals pointing downwards -->
+  <path d="M256 310 C170 350, 130 420, 210 440 C230 390, 250 350, 256 310 Z" fill="currentColor" fill-opacity="0.2" />
+  <path d="M256 310 C342 350, 382 420, 302 440 C282 390, 262 350, 256 310 Z" fill="currentColor" fill-opacity="0.2" />
+
+  <!-- Central bottom vertical grounding petal -->
+  <path d="M256 310 C240 370, 245 420, 256 460 C267 420, 272 370, 256 310 Z" fill="currentColor" />
+</svg>

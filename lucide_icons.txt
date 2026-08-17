@@ -1,0 +1,275 @@
+          <i class="lucide-icon text-[18px]" data-lucide="sun"></i>
+          <i class="lucide-icon text-[18px]" data-lucide="moon"></i>
+          <i class="lucide-icon text-[18px]" data-lucide="book-open"></i>
+        <i class="lucide-icon absolute left-3 top-1/2 -translate-y-1/2 text-on-surface-variant/70 text-[18px]" data-lucide="search"></i>
+        <i class="lucide-icon text-[18px]" data-lucide="search"></i>
+          <i class="lucide-icon text-sm font-bold fill-[1]" data-lucide="flame"></i>
+          <i class="lucide-icon text-sm" data-lucide="library"></i>
+        <div class="w-9 h-9 rounded-full bg-white/10 flex items-center justify-center text-white text-lg relative z-10 transition-transform duration-300 group-hover:scale-110 hover:rotate-2"><i class="lucide-icon text-lg" data-lucide="landmark"></i></div>
+        <div class="w-9 h-9 rounded-full bg-white/10 flex items-center justify-center text-white text-lg relative z-10 transition-transform duration-300 group-hover:scale-110 hover:rotate-2"><i class="lucide-icon text-lg" data-lucide="flower-2"></i></div>
+        <div class="w-9 h-9 rounded-full bg-white/10 flex items-center justify-center text-white text-lg relative z-10 transition-transform duration-300 group-hover:scale-110 hover:rotate-2"><i class="lucide-icon text-lg" data-lucide="activity"></i></div>
+        <div class="w-9 h-9 rounded-full bg-white/10 flex items-center justify-center text-white text-lg relative z-10 transition-transform duration-300 group-hover:scale-110 hover:rotate-2"><i class="lucide-icon text-lg" data-lucide="brain"></i></div>
+      <i class="lucide-icon absolute -top-4 -left-4 text-white/5 text-9xl pointer-events-none select-none" data-lucide="quote"></i>
+          <i class="lucide-icon text-lg" data-lucide="refresh-cw"></i>
+          <button id="gita-quote-fav" class="text-white/40 hover:text-[#C28B52] transition-all cursor-pointer p-1 rounded-full hover:bg-white/5"><i class="lucide-icon text-sm" data-lucide="bookmark"></i></button>
+          <button id="gita-quote-share" class="text-white/40 hover:text-white transition-all cursor-pointer p-1 rounded-full hover:bg-white/5"><i class="lucide-icon text-sm" data-lucide="share-2"></i></button>
+      <i class="lucide-icon absolute -top-4 -left-4 text-white/5 text-9xl pointer-events-none select-none" data-lucide="quote"></i>
+          <i class="lucide-icon text-lg" data-lucide="refresh-cw"></i>
+          <button id="vedas-quote-fav" class="text-white/40 hover:text-[#C28B52] transition-all cursor-pointer p-1 rounded-full hover:bg-white/5"><i class="lucide-icon text-sm" data-lucide="bookmark"></i></button>
+          <button id="vedas-quote-share" class="text-white/40 hover:text-white transition-all cursor-pointer p-1 rounded-full hover:bg-white/5"><i class="lucide-icon text-sm" data-lucide="share-2"></i></button>
+  <i class="lucide-icon text-[14px]" data-lucide="plus"></i> ADD BOOK
+        <i class="lucide-icon text-sm" data-lucide="play"></i> Continue Reading
+    <i class="lucide-icon absolute left-5 top-1/2 -translate-y-1/2 text-neutral-400 text-xl pointer-events-none transition-colors" data-lucide="search"></i>
+          <i class="lucide-icon text-xs" data-lucide="sparkles"></i> Today's Wisdom Sparks
+          <i class="lucide-icon text-xl" data-lucide="leaf"></i>
+        <i class="lucide-icon text-[13px]" data-lucide="feather"></i> Historical Timeline Epochs
+        <i class="lucide-icon text-lg" data-lucide="compass"></i> Resume Timeline Journey
+      <div class="w-14 h-14 rounded-full bg-[#fdfaf2] dark:bg-slate-800 text-xl border border-[#CFA15A]/10 flex items-center justify-center"><i class="lucide-icon text-2xl" data-lucide="flower-2"></i></div>
+      <div class="w-14 h-14 rounded-full bg-[#fdfaf2] dark:bg-slate-800 text-xl border border-[#CFA15A]/10 flex items-center justify-center"><i class="lucide-icon text-2xl" data-lucide="landmark"></i></div>
+      <div class="w-14 h-14 rounded-full bg-[#fdfaf2] dark:bg-slate-800 text-xl border border-[#CFA15A]/10 flex items-center justify-center"><i class="lucide-icon text-2xl" data-lucide="shield"></i></div>
+      <div class="w-14 h-14 rounded-full bg-[#fdfaf2] dark:bg-slate-800 text-xl border border-[#CFA15A]/10 flex items-center justify-center"><i class="lucide-icon text-2xl" data-lucide="sun-moon"></i></div>
+      <div class="w-14 h-14 rounded-full bg-[#fdfaf2] dark:bg-slate-800 text-xl border border-[#CFA15A]/10 flex items-center justify-center"><i class="lucide-icon text-2xl" data-lucide="shell"></i></div>
+      <div class="w-14 h-14 rounded-full bg-[#fdfaf2] dark:bg-slate-800 text-xl border border-[#CFA15A]/10 flex items-center justify-center"><i class="lucide-icon text-2xl" data-lucide="scroll-text"></i></div>
+        <i class="lucide-icon text-[18px]" data-lucide="arrow-left"></i>
+        <i class="lucide-icon text-[18px]" data-lucide="arrow-right"></i>
+    <i class="lucide-icon text-5xl text-neutral-300 dark:text-neutral-600 mb-4 animate-bounce" data-lucide="search-x"></i>
+<i class="lucide-icon" data-lucide="settings"></i>
+        <i class="lucide-icon text-xs animate-spin-slow" data-lucide="refresh-ccw"></i>
+          <i class="lucide-icon text-xs" data-lucide="file-text"></i>
+          <i class="lucide-icon text-xs" data-lucide="chevron-down"></i>
+            <i class="lucide-icon text-sm text-red-500" data-lucide="file-text"></i> Export Knowledge Base (PDF)
+            <i class="lucide-icon text-sm text-[#007acc]" data-lucide="file-code"></i> Export Knowledge Base (MD)
+            <i class="lucide-icon text-sm text-gray-500" data-lucide="file-text"></i> Export Knowledge Base (TXT)
+            <i class="lucide-icon text-sm text-red-400" data-lucide="book-open"></i> Export Current Book Notes
+            <i class="lucide-icon text-sm" data-lucide="cloud-download"></i> Backup Database (.JSON)
+            <i class="lucide-icon text-sm" data-lucide="cloud-upload"></i> Restore Backup (.JSON)
+        <i class="lucide-icon text-xs font-bold" data-lucide="plus"></i>
+    <i class="lucide-icon absolute left-4 top-1/2 -translate-y-1/2 text-on-surface-variant transition-colors group-focus-within:text-primary" data-lucide="search"></i>
+        <button class="vault-type-chip" data-type="favorite"><i class="lucide-icon text-xs align-middle mr-1" data-lucide="star"></i>FAVORITES</button>
+            <i class="lucide-icon text-xs font-bold" data-lucide="arrow-left"></i>
+            <i class="lucide-icon text-xs font-bold" data-lucide="arrow-right"></i>
+          <button class="vault-folder-chip active-chip" data-folder="all"><i class="lucide-icon text-[14px]" data-lucide="folder-open"></i> ALL VAULTS</button>
+          <button class="vault-folder-chip" data-folder="Philosophy"><i class="lucide-icon text-[14px]" data-lucide="book"></i> Philosophy</button>
+          <button class="vault-folder-chip" data-folder="Business"><i class="lucide-icon text-[14px]" data-lucide="briefcase"></i> Business</button>
+          <button class="vault-folder-chip" data-folder="Finance"><i class="lucide-icon text-[14px]" data-lucide="line-chart"></i> Finance</button>
+          <button class="vault-folder-chip" data-folder="Technology"><i class="lucide-icon text-[14px]" data-lucide="laptop"></i> Technology</button>
+          <button class="vault-folder-chip" data-folder="Study"><i class="lucide-icon text-[14px]" data-lucide="book-open"></i> Study</button>
+          <button class="vault-folder-chip" data-folder="Ideas"><i class="lucide-icon text-[14px]" data-lucide="lightbulb"></i> Ideas</button>
+          <button class="vault-folder-chip" data-folder="Quotes"><i class="lucide-icon text-[14px]" data-lucide="leaf"></i> Quotes</button>
+          <button class="vault-folder-chip" data-folder="Personal"><i class="lucide-icon text-[14px]" data-lucide="user"></i> Personal</button>
+          <i class="lucide-icon text-primary" data-lucide="sparkles"></i>
+          <i class="lucide-icon text-xs" data-lucide="refresh-cw"></i> RE-SYNTHESIZE VAULT
+            <i class="lucide-icon text-[13px]" data-lucide="book-open"></i>
+            <i class="lucide-icon text-[13px]" data-lucide="library"></i>
+      SORT: RECENT <i class="lucide-icon text-sm" data-lucide="chevron-down"></i>
+      <i class="lucide-icon text-[15px]" data-lucide="edit-3"></i> ADD TO NOTE
+      <i class="lucide-icon text-[15px]" data-lucide="bookmark"></i> BOOKMARK
+      <i class="lucide-icon text-[15px]" data-lucide="copy"></i> COPY
+      <i class="lucide-icon text-sm" data-lucide="x"></i>
+      <i class="lucide-icon" data-lucide="x"></i>
+        <i class="lucide-icon text-primary" data-lucide="plus-circle"></i>
+          <i class="lucide-icon text-base" data-lucide="sun"></i>
+          <i class="lucide-icon text-base" data-lucide="moon"></i>
+          <i class="lucide-icon text-base" data-lucide="book-open"></i>
+        <i class="lucide-icon text-sm font-bold" data-lucide="plus"></i> Create Wisdom
+        <span><i class="lucide-icon text-[15px]" data-lucide="landmark"></i></span> Stoicism
+        <span><i class="lucide-icon text-xl" data-lucide="flower-2"></i></span> Osho Insights
+        <span><i class="lucide-icon text-xl" data-lucide="sun"></i></span> Buddhism
+        <span><i class="lucide-icon text-xl" data-lucide="activity"></i></span> Lord Krishna
+        <span><i class="lucide-icon text-xl" data-lucide="sparkles"></i></span> Meditation
+        <span><i class="lucide-icon text-xl" data-lucide="brain"></i></span> Psychology
+        <span><i class="lucide-icon text-xl" data-lucide="crown"></i></span> Leadership
+          <i class="lucide-icon text-primary text-xl" data-lucide="user"></i>
+              <i class="lucide-icon text-primary text-lg" data-lucide="flame"></i>
+              <i class="lucide-icon text-primary text-lg" data-lucide="edit-3"></i>
+            <div class="w-8 h-8 rounded-full bg-amber-100 flex items-center justify-center text-amber-600"><i class="lucide-icon text-sm" data-lucide="flame"></i></div>
+            <div class="w-8 h-8 rounded-full bg-emerald-100 flex items-center justify-center text-emerald-600"><i class="lucide-icon text-sm" data-lucide="star"></i></div>
+        <i class="lucide-icon text-primary text-xl" data-lucide="activity"></i>
+        <i class="lucide-icon text-slate-900 text-base" data-lucide="compass"></i>
+          <div class="w-7 h-7 rounded-full bg-primary border-4 border-white dark:border-zinc-800 shadow-md flex items-center justify-center text-white text-[11px] font-bold my-2 transition-all"><i class="lucide-icon text-xl" data-lucide="activity"></i></div>
+          <div class="w-7 h-7 rounded-full bg-surface border-4 border-white dark:border-zinc-800 shadow-md flex items-center justify-center text-on-surface text-[11px] font-bold my-2 transition-all"><i class="lucide-icon text-[14px]" data-lucide="book-open"></i></div>
+          <div class="w-7 h-7 rounded-full bg-surface border-4 border-white dark:border-zinc-800 shadow-md flex items-center justify-center text-on-surface text-[11px] font-bold my-2 transition-all"><i class="lucide-icon text-xl" data-lucide="sun"></i></div>
+          <div class="w-7 h-7 rounded-full bg-surface border-4 border-white dark:border-zinc-800 shadow-md flex items-center justify-center text-on-surface text-[11px] font-bold my-2 transition-all"><i class="lucide-icon text-[15px]" data-lucide="landmark"></i></div>
+          <div class="w-7 h-7 rounded-full bg-surface border-4 border-white dark:border-zinc-800 shadow-md flex items-center justify-center text-on-surface text-[11px] font-bold my-2 transition-all"><i class="lucide-icon text-[15px]" data-lucide="landmark"></i></div>
+          <div class="w-7 h-7 rounded-full bg-surface border-4 border-white dark:border-zinc-800 shadow-md flex items-center justify-center text-on-surface text-[11px] font-bold my-2 transition-all"><i class="lucide-icon text-xl" data-lucide="crown"></i></div>
+          <div class="w-7 h-7 rounded-full bg-surface border-4 border-white dark:border-zinc-800 shadow-md flex items-center justify-center text-on-surface text-[11px] font-bold my-2 transition-all"><i class="lucide-icon text-xl" data-lucide="flower-2"></i></div>
+          <div class="w-7 h-7 rounded-full bg-surface border-4 border-white dark:border-zinc-800 shadow-md flex items-center justify-center text-on-surface text-[11px] font-bold my-2 transition-all"><i class="lucide-icon text-[14px]" data-lucide="laptop"></i></div>
+    <i class="lucide-icon text-2xl group-hover:rotate-12 transition-transform" data-lucide="message-circle"></i>
+        <i class="lucide-icon text-sm font-bold" data-lucide="sparkles"></i>
+      <i class="lucide-icon" data-lucide="x"></i>
+        <i class="lucide-icon text-xs" data-lucide="sparkles"></i>
+      <i class="lucide-icon text-[11px] text-primary" data-lucide="book-open"></i> Explain quote
+      <i class="lucide-icon text-[11px] text-primary" data-lucide="compass"></i> Practical examples
+      <i class="lucide-icon text-[11px] text-primary" data-lucide="users"></i> Compare with Buddha
+      <i class="lucide-icon text-sm font-bold" data-lucide="send"></i>
+      <i class="lucide-icon" data-lucide="x"></i>
+        <i class="lucide-icon" data-lucide="sparkles"></i>
+            <option value="stoicism"><i class="lucide-icon text-[15px]" data-lucide="landmark"></i> Stoicism</option>
+            <option value="osho"><i class="lucide-icon text-xl" data-lucide="flower-2"></i> Osho Insights</option>
+            <option value="buddhism"><i class="lucide-icon text-xl" data-lucide="sun"></i> Buddhism</option>
+            <option value="krishna"><i class="lucide-icon text-xl" data-lucide="activity"></i> Lord Krishna</option>
+            <option value="meditation"><i class="lucide-icon text-xl" data-lucide="sparkles"></i> Meditation</option>
+            <option value="psychology"><i class="lucide-icon text-xl" data-lucide="brain"></i> Psychology</option>
+            <option value="leadership"><i class="lucide-icon text-xl" data-lucide="crown"></i> Leadership</option>
+  <i class="lucide-icon text-sm font-bold" data-lucide="edit-2"></i> EDIT PROFILE
+<i class="lucide-icon text-[16px]" data-lucide="badge-check"></i>
+  <span class="text-xs text-on-surface-variant font-mono flex items-center gap-1">• <i class="lucide-icon text-xs" data-lucide="flame"></i> <span id="streak-badge-count">14</span> day streak</span>
+          <i class="lucide-icon text-xl text-[#D4AF37]" data-lucide="trophy"></i>
+          <i class="lucide-icon text-xl text-blue-500" data-lucide="star"></i>
+          <i class="lucide-icon text-xl text-error" data-lucide="flame"></i>
+          <span class="text-xl"><i class="lucide-icon text-xl" data-lucide="crown"></i></span>
+<i class="lucide-icon text-on-surface-variant group-hover:text-primary transition-colors" data-lucide="credit-card"></i>
+<i class="lucide-icon text-on-surface-variant" data-lucide="chevron-right"></i>
+<i class="lucide-icon text-on-surface-variant group-hover:text-primary transition-colors" data-lucide="flower-2"></i>
+<i class="lucide-icon text-on-surface-variant" data-lucide="chevron-right"></i>
+<i class="lucide-icon text-on-surface-variant group-hover:text-primary transition-colors" data-lucide="bell-ring"></i>
+<i class="lucide-icon text-on-surface-variant" data-lucide="chevron-right"></i>
+<i class="lucide-icon text-on-surface-variant group-hover:text-primary transition-colors" data-lucide="user-cog"></i>
+<i class="lucide-icon text-on-surface-variant" data-lucide="chevron-right"></i>
+        <i class="lucide-icon text-primary font-bold" data-lucide="book-open"></i>
+        <i class="lucide-icon text-sm font-bold" data-lucide="x"></i>
+        <i class="lucide-icon text-primary font-bold" data-lucide="user-cog"></i>
+        <i class="lucide-icon text-sm font-bold" data-lucide="x"></i>
+          <button class="preset-avatar-btn w-10 h-10 rounded-full border-2 border-transparent hover:border-primary overflow-hidden bg-primary/15 transition-all text-sm flex items-center justify-center cursor-pointer" data-initials="MA" data-portrait="1" title="Marcus Aurelius"><i class="lucide-icon text-2xl" data-lucide="landmark"></i></button>
+          <button class="preset-avatar-btn w-10 h-10 rounded-full border-2 border-transparent hover:border-primary overflow-hidden bg-primary/15 transition-all text-sm flex items-center justify-center cursor-pointer" data-initials="SN" data-portrait="2" title="Seneca"><i class="lucide-icon text-2xl" data-lucide="scroll-text"></i></button>
+          <button class="preset-avatar-btn w-10 h-10 rounded-full border-2 border-transparent hover:border-primary overflow-hidden bg-primary/15 transition-all text-sm flex items-center justify-center cursor-pointer" data-initials="BU" data-portrait="3" title="Buddha"><i class="lucide-icon text-2xl" data-lucide="flower-2"></i></button>
+          <button class="preset-avatar-btn w-10 h-10 rounded-full border-2 border-transparent hover:border-primary overflow-hidden bg-primary/15 transition-all text-sm flex items-center justify-center cursor-pointer" data-initials="LA" data-portrait="4" title="Lao Tzu"><i class="lucide-icon text-2xl" data-lucide="sun-moon"></i></button>
+        <i class="lucide-icon text-sm font-bold" data-lucide="x"></i>
+          <i class="lucide-icon text-2xl text-primary font-bold" data-lucide="shield-check"></i>
+            <button class="soundtrack-btn bg-primary/15 text-primary border border-primary/20 py-2.5 rounded-lg text-[9px] font-bold cursor-pointer" data-sound="binaural"><i class="lucide-icon text-xl" data-lucide="flower-2"></i> BINAURAL WAVES</button>
+        <i class="lucide-icon text-primary font-bold" data-lucide="trophy"></i>
+        <i class="lucide-icon text-sm font-bold" data-lucide="x"></i>
+            <i class="lucide-icon text-[18px]" data-lucide="sun"></i>
+            <i class="lucide-icon text-[18px]" data-lucide="moon"></i>
+            <i class="lucide-icon text-[18px]" data-lucide="book-open"></i>
+         <i class="lucide-icon text-sm" data-lucide="plus"></i> Create Wisdom
+           <i class="lucide-icon text-[15px] block font-light" data-lucide="landmark"></i> Stoicism
+           <i class="lucide-icon text-xl" data-lucide="flower-2"></i> Osho Insights
+           <i class="lucide-icon text-xl" data-lucide="sun"></i> Buddhism
+           <i class="lucide-icon text-xl" data-lucide="activity"></i> Lord Krishna
+           <i class="lucide-icon text-xl" data-lucide="sparkles"></i> Meditation
+           <i class="lucide-icon text-xl" data-lucide="brain"></i> Psychology
+           <i class="lucide-icon text-xl" data-lucide="crown"></i> Leadership
+                 <i class="lucide-icon text-sm" data-lucide="chevron-left"></i>
+                 <i class="lucide-icon text-sm" data-lucide="chevron-right"></i>
+                 <span>Speed:</span> <span class="font-bold text-white">1.0x</span> <i class="lucide-icon text-sm" data-lucide="chevron-down"></i>
+                 <i class="lucide-icon text-base" data-lucide="volume-2"></i> LISTEN
+               <i class="lucide-icon text-xl" data-lucide="landmark"></i>
+                  <i class="lucide-icon text-[16px]" data-lucide="flame"></i>
+             <i class="lucide-icon text-lg" data-lucide="message-circle"></i>
+        <i class="lucide-icon text-[#6B4226] dark:text-amber-400 font-bold" data-lucide="palette"></i>
+        <i class="lucide-icon text-sm font-bold" data-lucide="x"></i>
+            <i class="lucide-icon text-xs" data-lucide="library"></i> WISDOM CAPTURE
+          <i class="lucide-icon text-3xl text-amber-400/25 absolute -left-2 top-2" data-lucide="quote"></i>
+          <i class="lucide-icon text-sm" data-lucide="link"></i> Copy Public URL
+          <i class="lucide-icon text-sm" data-lucide="download"></i> Download Card
+        <i class="lucide-icon" data-lucide="arrow-left"></i>
+        <i class="lucide-icon text-[14px]" data-lucide="cloud"></i>
+          <i class="lucide-icon text-xs" data-lucide="info"></i> Volume Metadata
+            <span class="text-on-surface-variant font-medium block"><i class="lucide-icon text-[14px]" data-lucide="folder"></i> Category:</span>
+            <i class="lucide-icon font-bold text-sm" data-lucide="book-open"></i> READ NOW
+            <i class="lucide-icon text-sm" data-lucide="volume-2"></i> LISTEN ALOUD
+            <i class="lucide-icon text-sm" data-lucide="download"></i> DOWNLOAD OFFLINE
+          <i class="lucide-icon text-sm animate-pulse" data-lucide="sparkles"></i> EXPLOITS SCHOLARLY AI SUMMARY (GEMINI 3.5-FLASH)
+              <i class="lucide-icon text-sm" data-lucide="sparkles"></i> Scholar AI Summary
+              <i class="lucide-icon text-sm" data-lucide="x"></i>
+          <i class="lucide-icon" data-lucide="network"></i>
+          <i class="lucide-icon text-xs" data-lucide="plus-square"></i> NEW NOTE
+          <i class="lucide-icon text-xs animate-pulse" data-lucide="sparkles"></i> AI STUDY NODE
+             <i class="lucide-icon text-xs" data-lucide="download"></i> EXPORT BOOK NOTES
+              <i class="lucide-icon text-sm text-red-500" data-lucide="file-text"></i> Export as PDF
+              <i class="lucide-icon text-sm text-blue-500" data-lucide="file-text"></i> Export as DOCX
+              <i class="lucide-icon text-sm text-amber-550" data-lucide="file-code"></i> Export as Markdown
+              <i class="lucide-icon text-sm text-neutral-500" data-lucide="file-text"></i> Export as Text File
+        <i class="lucide-icon text-sm" data-lucide="library"></i> SOURCE LOGBOOK
+        <i class="lucide-icon text-sm" data-lucide="brain"></i> NOTEBOOKLM AI CHAT
+        <i class="lucide-icon text-sm" data-lucide="workflow"></i> VISUAL MIND MAP
+        <i class="lucide-icon text-sm" data-lucide="help-circle"></i> STUDY FLASHCARDS
+        <i class="lucide-icon text-sm" data-lucide="clock"></i> HISTORICAL TIMELINE
+          <i class="lucide-icon text-sm animate-spin" data-lucide="sparkles"></i> Companion AI Book Synthesis
+          <i class="lucide-icon text-sm" data-lucide="x"></i>
+          <i class="lucide-icon text-neutral-500 text-lg mb-1" data-lucide="edit-3"></i>
+          <i class="lucide-icon text-yellow-500 text-lg mb-1" data-lucide="pen-tool"></i>
+          <i class="lucide-icon text-green-550 text-lg mb-1" data-lucide="quote"></i>
+          <i class="lucide-icon text-purple-500 text-lg mb-1" data-lucide="lightbulb"></i>
+          <i class="lucide-icon text-blue-500 text-lg mb-1" data-lucide="bookmark"></i>
+        <button data-type="all" class="hub-filter-chip active-chip px-3 py-1 bg-surface-container hover:bg-surface-container-high rounded-full text-[10px] font-semibold tracking-wide transition-all select-none cursor-pointer"><i class="lucide-icon text-[14px]" data-lucide="folder-open"></i> ALL</button>
+        <button data-type="insight" class="hub-filter-chip px-3 py-1 bg-surface-container hover:bg-surface-container-high rounded-full text-[10px] font-semibold tracking-wide transition-all select-none cursor-pointer"><i class="lucide-icon text-[14px]" data-lucide="lightbulb"></i> INSIGHTS</button>
+        <i class="lucide-icon text-4xl text-neutral-400 mb-2" data-lucide="folder-open"></i>
+           <i class="lucide-icon text-sm" data-lucide="brain"></i>
+            <i class="lucide-icon text-sm font-bold" data-lucide="send"></i>
+               <i class="lucide-icon text-sm" data-lucide="workflow"></i>
+               <i class="lucide-icon text-sm" data-lucide="help-circle"></i>
+            <i class="lucide-icon text-xs" data-lucide="sparkles"></i> GENERATE CARDS WITH AI
+                       <i class="lucide-icon text-xs" data-lucide="pointer"></i> Click card to reveal answer
+                 <i class="lucide-icon" data-lucide="chevron-left"></i>
+                 <i class="lucide-icon" data-lucide="chevron-right"></i>
+             <i class="lucide-icon text-sm" data-lucide="clock"></i>
+<i class="lucide-icon text-on-surface-variant dark:text-neutral-300" data-lucide="arrow-left"></i>
+    <i class="lucide-icon font-bold" data-lucide="library"></i>
+    <i class="lucide-icon" data-lucide="edit-3"></i>
+    <i class="lucide-icon font-bold" data-lucide="sparkles"></i>
+    <i class="lucide-icon text-on-surface-variant dark:text-neutral-300" data-lucide="bookmark"></i>
+  <i class="lucide-icon text-2xl" data-lucide="chevron-left"></i>
+  <i class="lucide-icon text-2xl" data-lucide="chevron-right"></i>
+    <i class="lucide-icon text-lg block" data-lucide="chevron-left"></i>
+    <i class="lucide-icon text-lg block" data-lucide="chevron-right"></i>
+<i class="lucide-icon text-6xl text-outline mb-4" data-lucide="file-text"></i>
+      <i class="lucide-icon text-primary font-bold" data-lucide="edit-3"></i>
+      <i class="lucide-icon text-[18px]" data-lucide="x"></i>
+              <i class="lucide-icon text-[13px] font-bold" data-lucide="check"></i>
+              <i class="lucide-icon text-[13px] font-bold hidden" data-lucide="check"></i>
+              <i class="lucide-icon text-[13px] font-bold hidden" data-lucide="check"></i>
+              <i class="lucide-icon text-[13px] font-bold hidden" data-lucide="check"></i>
+      <i class="lucide-icon text-amber-600 dark:text-[#FBBF24] font-bold" data-lucide="sparkles"></i>
+      <i class="lucide-icon text-[18px]" data-lucide="x"></i>
+          <i class="lucide-icon text-[14px] text-amber-600 dark:text-[#FBBF24]" data-lucide="help-circle"></i> Explain Page
+          <i class="lucide-icon text-[14px] text-amber-600 dark:text-[#FBBF24]" data-lucide="file-text"></i> Summarize
+          <i class="lucide-icon text-[14px] text-amber-600 dark:text-[#FBBF24]" data-lucide="languages"></i> Terms Decode
+          <i class="lucide-icon text-[14px] text-amber-600 dark:text-[#FBBF24]" data-lucide="workflow"></i> Cross Systems
+          <i class="lucide-icon text-[14px] text-amber-600 dark:text-[#FBBF24]" data-lucide="feather"></i> History Sages
+          <i class="lucide-icon text-[14px] text-amber-600 dark:text-[#FBBF24]" data-lucide="lightbulb"></i> Key Lessons
+<i class="lucide-icon" data-lucide="external-link"></i>
+<i class="lucide-icon transition-transform duration-300 group-hover:scale-110 hover:rotate-2" data-lucide="home"></i>
+<i class="lucide-icon transition-transform duration-300 group-hover:scale-110 hover:rotate-2" data-lucide="library"></i>
+<i class="lucide-icon transition-transform duration-300 group-hover:scale-110 hover:rotate-2" data-lucide="list-tree"></i>
+<i class="lucide-icon transition-transform duration-300 group-hover:scale-110 hover:rotate-2" data-lucide="sparkles"></i>
+<i class="lucide-icon transition-transform duration-300 group-hover:scale-110 hover:rotate-2" data-lucide="user"></i>
+      <i class="lucide-icon" data-lucide="x"></i>
+        <i class="lucide-icon" data-lucide="cloud-upload"></i>
+        <i class="lucide-icon text-5xl text-[#6B4226]/65 dark:text-amber-400/70 mb-3 group-hover:scale-110 hover:rotate-2 transition-transform duration-300" data-lucide="library"></i>
+            <i class="lucide-icon absolute left-3 top-1/2 -translate-y-1/2 text-on-surface-variant text-[18px]" data-lucide="link"></i>
+          <i class="lucide-icon text-4xl text-[#6B4226] dark:text-amber-400 animate-spin" data-lucide="brain"></i>
+            <i class="lucide-icon text-[14px]" data-lucide="hourglass"></i>
+            <i class="lucide-icon text-[14px]" data-lucide="circle"></i>
+            <i class="lucide-icon text-[14px]" data-lucide="circle"></i>
+            <i class="lucide-icon text-[14px]" data-lucide="circle"></i>
+                <i class="lucide-icon text-[14px]" data-lucide="palette"></i> Recreate AI Artwork
+                  <option value="psychology"><i class="lucide-icon text-xl" data-lucide="brain"></i> Psychology</option>
+                  <option value="finance"><i class="lucide-icon text-[14px]" data-lucide="line-chart"></i> Finance</option>
+                  <option value="history"><i class="lucide-icon text-[15px]" data-lucide="landmark"></i> History</option>
+                  <option value="career">👨‍<i class="lucide-icon text-[14px]" data-lucide="briefcase"></i> Career</option>
+                  <option value="literature"><i class="lucide-icon text-[14px]" data-lucide="book-open"></i> Literature</option>
+                  <option value="biography"><i class="lucide-icon text-[14px]" data-lucide="user"></i> Biography</option>
+                  <option value="spirituality"><i class="lucide-icon text-xl" data-lucide="activity"></i> Spirituality</option>
+       <i class="lucide-icon" data-lucide="x"></i>
+        <i class="lucide-icon" data-lucide="edit-3"></i>
+            <option value="Philosophy"><i class="lucide-icon text-[14px]" data-lucide="book"></i> Philosophy</option>
+            <option value="Business"><i class="lucide-icon text-[14px]" data-lucide="briefcase"></i> Business</option>
+            <option value="Finance"><i class="lucide-icon text-[14px]" data-lucide="line-chart"></i> Finance</option>
+            <option value="Technology"><i class="lucide-icon text-[14px]" data-lucide="laptop"></i> Technology</option>
+            <option value="Study"><i class="lucide-icon text-[14px]" data-lucide="book-open"></i> Study</option>
+            <option value="Ideas"><i class="lucide-icon text-[14px]" data-lucide="lightbulb"></i> Ideas</option>
+            <option value="Quotes"><i class="lucide-icon text-[14px]" data-lucide="leaf"></i> Quotes</option>
+            <option value="Personal"><i class="lucide-icon text-[14px]" data-lucide="user"></i> Personal</option>
+            <option value="insight"><i class="lucide-icon text-[14px]" data-lucide="lightbulb"></i> Deep Insight</option>
+            <button onclick="window.LuminaHighlights.insertFormatting('- [ ] ')" type="button" class="text-[10px] px-1 hover:text-primary transition-colors cursor-pointer flex items-center" title="Add task list checkbox"><i class="lucide-icon text-[10px]" data-lucide="check-square"></i></button>
+            <button onclick="window.LuminaHighlights.insertFormatting('> ')" type="button" class="text-[10px] px-1 hover:text-primary transition-colors cursor-pointer flex items-center" title="Add Quote block"><i class="lucide-icon text-[10px]" data-lucide="quote"></i></button>
+            <button onclick="window.LuminaHighlights.insertFormatting('### ')" type="button" class="text-[10px] px-1 hover:text-primary transition-colors cursor-pointer flex items-center" title="Add Heading"><i class="lucide-icon text-[10px]" data-lucide="type"></i></button>
+            <button onclick="window.LuminaHighlights.insertFormatting('| Header 1 | Header 2 |\n|---|---|\n| Cell 1 | Cell 2 |')" type="button" class="text-[10px] px-1 hover:text-primary transition-colors cursor-pointer flex items-center" title="Add Table"><i class="lucide-icon text-[10px]" data-lucide="grid"></i></button>
+            <button onclick="window.LuminaHighlights.insertFormatting('> [!NOTE]\n> This is an important callout!\n')" type="button" class="text-[10px] px-1 hover:text-primary transition-colors cursor-pointer flex items-center" title="Add Callout Box"><i class="lucide-icon text-[10px]" data-lucide="megaphone"></i></button>
+          <i class="lucide-icon text-[10px]" data-lucide="paperclip"></i> Media Attachments
+            <i class="lucide-icon text-xs" data-lucide="cloud-upload"></i>
+            <i class="lucide-icon text-xs" data-lucide="image"></i>
+          <i class="lucide-icon absolute left-2 top-1/2 -translate-y-1/2 text-on-surface-variant text-[12px]" data-lucide="link"></i>
+          <i class="lucide-icon text-xs animate-pulse" data-lucide="sparkles"></i> PKM AI Cognitive Actions

@@ -1,0 +1,6 @@
+{
+  "name": "Wisdom",
+  "description": "Explore Humanity's Greatest Ideas. An adaptive digital sanctuary comprising the complete Vedas, Puranas, libraries, charted chronologically with deep human philosophy and timeline epochs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
